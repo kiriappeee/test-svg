@@ -3,6 +3,7 @@ aria-label="Calendar" role="img"
 viewBox="0 0 512 512">
 <script type="text/ecmascript"><![CDATA[
 function init() {
+    console.log(1)
   var time = new Date();
   var locale = "en-gb";
 
